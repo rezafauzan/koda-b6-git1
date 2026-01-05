@@ -1,6 +1,6 @@
 {
   "name": "temp-converter",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A NodeJS CLI App to convert from one temp unit to other unit",
   "license": "MIT",
   "author": "Reza Fauzan Adhima",
