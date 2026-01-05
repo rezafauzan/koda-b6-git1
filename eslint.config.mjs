@@ -9,7 +9,7 @@ export default defineConfig([
     rules: {
       "camelcase": ['error'],
       "indent": ['error', 'tab'],
-      "no-unused-var": ['error'],
+      "no-unused-vars": ['error'],
       "semi": ['error', 'never']
     }
   }
