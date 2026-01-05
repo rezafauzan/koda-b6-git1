@@ -1,0 +1,17 @@
+{
+  "name": "temp-converter",
+  "version": "1.0.0",
+  "description": "A NodeJS CLI App to convert from one temp unit to other unit",
+  "license": "MIT",
+  "author": "Reza Fauzan Adhima",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "globals": "^17.0.0"
+  }
+}
